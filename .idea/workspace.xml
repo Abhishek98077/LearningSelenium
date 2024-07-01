@@ -20,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2iXzLL676NJ9gwXzfGe3SSTVrjK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,6 +39,7 @@
     "TestNG.test01.executor": "Run",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/LearnSelenium/allure-results",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +48,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\LearnSelenium\allure-results" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
@@ -88,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719651657127</updated>
       <workItem from="1719651658496" duration="1812000" />
+      <workItem from="1719739305313" duration="132000" />
     </task>
     <servers />
   </component>
