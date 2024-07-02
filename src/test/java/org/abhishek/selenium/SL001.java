@@ -8,6 +8,10 @@ public class SL001 {
         WebDriver driver = new EdgeDriver();
         driver.get("https://www.studlence.com");
         System.out.println("Title: " + driver.getTitle());
+        System.out.println("Url: " + driver.getCurrentUrl());
+//        driver.close();
+
+
         driver.quit();
     }
 }
