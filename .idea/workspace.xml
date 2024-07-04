@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/Miniproject01/loginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/Studlence/LoginNegativeTC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/MiniProject2Xpath/SL001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/Miniproject01/AllTheAnchorTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/Miniproject01/loginpage2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/SL007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/SL007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/Miniproject01/loginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/Miniproject01/loginPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,56 +37,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.SL001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SL004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SL005pageLoadStrategy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SL006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SL007.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/Asus/IdeaProjects/LearnSelenium/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.LoginNegativeTC.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SL003.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.SL007.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.loginPage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.test01.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/LearnSelenium/allure-results&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SL001.executor": "Run",
+    "Application.SL004.executor": "Run",
+    "Application.SL005pageLoadStrategy.executor": "Run",
+    "Application.SL006.executor": "Run",
+    "Application.SL007.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AllTheAnchorTag.executor": "Run",
+    "TestNG.C:/Users/Asus/IdeaProjects/LearnSelenium/testng.xml.executor": "Run",
+    "TestNG.LoginNegativeTC.executor": "Run",
+    "TestNG.SL001.executor": "Run",
+    "TestNG.SL003.executor": "Run",
+    "TestNG.SL007.executor": "Run",
+    "TestNG.loginPage.executor": "Run",
+    "TestNG.loginpage2.executor": "Run",
+    "TestNG.test01.executor": "Run",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/LearnSelenium/allure-results",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\LearnSelenium\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginNegativeTC">
-    <configuration name="SL007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.SL007" />
+  <component name="RunManager" selected="TestNG.SL001">
+    <configuration name="AllTheAnchorTag" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.Miniproject01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/Asus/IdeaProjects/LearnSelenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearnSelenium" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.Miniproject01" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.Miniproject01.AllTheAnchorTag" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -110,16 +107,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SL007" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SL001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.MiniProject2Xpath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.SL007" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.MiniProject2Xpath" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.MiniProject2Xpath.SL001" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -144,13 +141,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="loginpage2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.abhishek.selenium.Miniproject01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.Miniproject01" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.Miniproject01.loginpage2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginNegativeTC" />
+        <item itemvalue="TestNG.SL001" />
+        <item itemvalue="TestNG.AllTheAnchorTag" />
+        <item itemvalue="TestNG.loginpage2" />
         <item itemvalue="TestNG.loginPage" />
-        <item itemvalue="TestNG.C:/Users/Asus/IdeaProjects/LearnSelenium/testng.xml" />
-        <item itemvalue="TestNG.SL007" />
-        <item itemvalue="Application.SL007" />
+        <item itemvalue="TestNG.LoginNegativeTC" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +192,7 @@
       <workItem from="1719905573515" duration="3116000" />
       <workItem from="1719925469006" duration="8652000" />
       <workItem from="1720007951267" duration="674000" />
+      <workItem from="1720086384260" duration="5215000" />
     </task>
     <servers />
   </component>

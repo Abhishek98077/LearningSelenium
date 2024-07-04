@@ -28,6 +28,8 @@ public class loginPage {
         Thread.sleep(3000);
         WebElement message = driver.findElement(By.className("notification-box-description"));
         String ErrorMessage =message.getText();
+        String getTrribute = message.getAttribute("data-qa");
+        System.out.println(getTrribute);
         Assert.assertEquals(ErrorMessage ,"Your email, password, IP address or location did not match");
         driver.close();
 
