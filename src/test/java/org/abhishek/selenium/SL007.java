@@ -17,7 +17,7 @@ public class SL007 {
         System.out.println(driver.getCurrentUrl());
 
         Assert.assertEquals(driver.getTitle(),"Login - VWO");
-        Assert.assertEquals(driver.getCurrentUrl(), "htts://app.vwo.com/#/login");
+        Assert.assertEquals(driver.getCurrentUrl(), "https://app.vwo.com/#/login");
         driver.quit();
     }
 }
