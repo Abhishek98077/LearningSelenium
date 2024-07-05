@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="" />
+    <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/Studlence/stLoginDash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/beforeAfterTEst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +53,7 @@
     "TestNG.SL007.executor": "Run",
     "TestNG.loginPage.executor": "Run",
     "TestNG.loginpage2.executor": "Run",
+    "TestNG.stLoginDash.executor": "Run",
     "TestNG.test01.executor": "Run",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
@@ -66,7 +71,7 @@
       <recent name="C:\Users\Asus\IdeaProjects\LearnSelenium\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SL001">
+  <component name="RunManager" selected="TestNG.stLoginDash">
     <configuration name="AllTheAnchorTag" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
@@ -77,23 +82,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.abhishek.selenium.Miniproject01" />
       <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.Miniproject01.AllTheAnchorTag" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginNegativeTC" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearnSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.Studlence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.Studlence" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.Studlence.LoginNegativeTC" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -152,13 +140,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="stLoginDash" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.abhishek.selenium.Studlence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.Studlence" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.Studlence.stLoginDash" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.stLoginDash" />
         <item itemvalue="TestNG.SL001" />
         <item itemvalue="TestNG.AllTheAnchorTag" />
         <item itemvalue="TestNG.loginpage2" />
         <item itemvalue="TestNG.loginPage" />
-        <item itemvalue="TestNG.LoginNegativeTC" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +192,8 @@
       <workItem from="1719925469006" duration="8652000" />
       <workItem from="1720007951267" duration="674000" />
       <workItem from="1720086384260" duration="7080000" />
+      <workItem from="1720156542768" duration="86000" />
+      <workItem from="1720175739155" duration="3738000" />
     </task>
     <servers />
   </component>
@@ -200,6 +207,11 @@
           <properties class="java.net.SocketException" package="java.net" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/abhishek/selenium/MiniProject2Xpath/SL002.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
