@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/ebbay/ebbay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/seleniumWaits/sl01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/beforeAfterTEst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/beforeAfterTEst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +52,8 @@
     &quot;TestNG.SL007.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.loginPage.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.loginpage2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.sl01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.sl01.positiveTC.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.stLoginDash.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.test01.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
@@ -72,24 +72,7 @@
       <recent name="C:\Users\Asus\IdeaProjects\LearnSelenium\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Asus/IdeaProjects/LearnSelenium/testng.xml">
-    <configuration name="AllTheAnchorTag" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearnSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.Miniproject01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.Miniproject01" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.Miniproject01.AllTheAnchorTag" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.sl01.positiveTC">
     <configuration name="C:/Users/Asus/IdeaProjects/LearnSelenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -117,17 +100,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="loginpage2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="sl01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.Miniproject01.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.seleniumWaits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.Miniproject01" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.Miniproject01.loginpage2" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.seleniumWaits" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.seleniumWaits.sl01" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sl01.positiveTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.abhishek.selenium.seleniumWaits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.seleniumWaits" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.seleniumWaits.sl01" />
+      <option name="METHOD_NAME" value="positiveTC" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.sl01.positiveTC" />
+        <item itemvalue="TestNG.sl01" />
         <item itemvalue="TestNG.C:/Users/Asus/IdeaProjects/LearnSelenium/testng.xml" />
         <item itemvalue="TestNG.stLoginDash" />
         <item itemvalue="TestNG.SL001" />
-        <item itemvalue="TestNG.AllTheAnchorTag" />
-        <item itemvalue="TestNG.loginpage2" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +190,11 @@
       <workItem from="1720156542768" duration="86000" />
       <workItem from="1720175739155" duration="3738000" />
       <workItem from="1720180836933" duration="341000" />
-      <workItem from="1720416233403" duration="2540000" />
+      <workItem from="1720416233403" duration="2907000" />
+      <workItem from="1720420350971" duration="4341000" />
+      <workItem from="1720429991814" duration="21000" />
+      <workItem from="1720430465155" duration="290000" />
+      <workItem from="1720431832974" duration="16000" />
     </task>
     <servers />
   </component>
