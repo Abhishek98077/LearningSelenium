@@ -12,9 +12,10 @@ public class beforeAfterTEst {
 
 
     @BeforeTest
-    public void openBrowser() {
+    public void openBrowser() throws InterruptedException {
         driver = new EdgeDriver();
         driver.get("https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2499334.m570.l1311&_nkw=macbook+pro&_sacat=32852");
+        Thread.sleep(3000);
         
     }
 

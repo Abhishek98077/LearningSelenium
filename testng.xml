@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Asus/IdeaProjects/LearnSelenium">
         <classes>
-            <class name="org.abhishek.selenium.Miniproject01.">
+            <class name="org.abhishek.selenium.ebbay.ebbay">
 
             </class>
 
