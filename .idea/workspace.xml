@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/checkboxDropdown/SL002Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/checkboxDropdown/SL003Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/checkboxDropdown/sl001SelectDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/WebTables/SL001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/katalonProject/PositiveTC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,8 @@
     "TestNG.AllTheAnchorTag.executor": "Run",
     "TestNG.C:/Users/Asus/IdeaProjects/LearnSelenium/testng.xml.executor": "Run",
     "TestNG.LoginNegativeTC.executor": "Run",
+    "TestNG.PositiveTC.TestWebsite.executor": "Run",
+    "TestNG.PositiveTC.executor": "Run",
     "TestNG.SL001.executor": "Run",
     "TestNG.SL002Alerts.executor": "Run",
     "TestNG.SL003.executor": "Run",
@@ -77,7 +78,59 @@
       <recent name="C:\Users\Asus\IdeaProjects\LearnSelenium\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SL003Checkbox">
+  <component name="RunManager" selected="TestNG.PositiveTC">
+    <configuration name="PositiveTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.abhishek.selenium.katalonProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.katalonProject" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.katalonProject.PositiveTC" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveTC.TestWebsite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.abhishek.selenium.katalonProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.katalonProject" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.katalonProject.PositiveTC" />
+      <option name="METHOD_NAME" value="TestWebsite" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SL001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.abhishek.selenium.checkboxDropdown.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.checkboxDropdown" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.checkboxDropdown.SL001" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SL002Alerts" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
@@ -112,65 +165,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sl001SelectDropdown" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearnSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.checkboxDropdown.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.checkboxDropdown" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.checkboxDropdown.sl001SelectDropdown" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sl01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearnSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.seleniumWaits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.seleniumWaits" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.seleniumWaits.sl01" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sl01.positiveTC" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearnSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.seleniumWaits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.seleniumWaits" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.seleniumWaits.sl01" />
-      <option name="METHOD_NAME" value="positiveTC" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PositiveTC" />
+        <item itemvalue="TestNG.PositiveTC.TestWebsite" />
+        <item itemvalue="TestNG.SL001" />
         <item itemvalue="TestNG.SL003Checkbox" />
         <item itemvalue="TestNG.SL002Alerts" />
-        <item itemvalue="TestNG.sl001SelectDropdown" />
-        <item itemvalue="TestNG.sl01.positiveTC" />
-        <item itemvalue="TestNG.sl01" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +210,7 @@
       <workItem from="1720431832974" duration="16000" />
       <workItem from="1720432914114" duration="130000" />
       <workItem from="1720590921921" duration="4850000" />
-      <workItem from="1720601019065" duration="3162000" />
+      <workItem from="1720601019065" duration="12275000" />
     </task>
     <servers />
   </component>
