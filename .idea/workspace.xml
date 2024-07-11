@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/Actions/SL001KeyBoardShift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/MakeMyTrip/SL001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/SVG/findSVG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/SVG/mCharts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/shadowDOM/SL001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/shadowDOM/scrool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +212,7 @@
       <workItem from="1720601019065" duration="12275000" />
       <workItem from="1720616441229" duration="106000" />
       <workItem from="1720677185882" duration="4078000" />
-      <workItem from="1720682765021" duration="7164000" />
+      <workItem from="1720682765021" duration="7945000" />
     </task>
     <servers />
   </component>
