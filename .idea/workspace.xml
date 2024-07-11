@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/WebTables/SL001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/katalonProject/PositiveTC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/Actions/SL001KeyBoardShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/MakeMyTrip/SL001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/SVG/findSVG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/SVG/mCharts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/shadowDOM/SL001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/shadowDOM/scrool.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +54,17 @@
     "TestNG.LoginNegativeTC.executor": "Run",
     "TestNG.PositiveTC.TestWebsite.executor": "Run",
     "TestNG.PositiveTC.executor": "Run",
+    "TestNG.SL001 (1).executor": "Run",
     "TestNG.SL001.executor": "Run",
+    "TestNG.SL001KeyBoardShift.executor": "Run",
     "TestNG.SL002Alerts.executor": "Run",
     "TestNG.SL003.executor": "Run",
     "TestNG.SL003Checkbox.executor": "Run",
     "TestNG.SL007.executor": "Run",
+    "TestNG.findSVG.executor": "Run",
     "TestNG.loginPage.executor": "Run",
     "TestNG.loginpage2.executor": "Run",
+    "TestNG.mCharts.executor": "Run",
     "TestNG.sl001SelectDropdown.executor": "Run",
     "TestNG.sl01.executor": "Run",
     "TestNG.sl01.positiveTC.executor": "Run",
@@ -78,36 +86,18 @@
       <recent name="C:\Users\Asus\IdeaProjects\LearnSelenium\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PositiveTC">
-    <configuration name="PositiveTC" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SL001">
+    <configuration name="SL001 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.katalonProject.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.shadowDOM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.katalonProject" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.katalonProject.PositiveTC" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.shadowDOM" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.shadowDOM.SL001" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PositiveTC.TestWebsite" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearnSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.katalonProject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.katalonProject" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.katalonProject.PositiveTC" />
-      <option name="METHOD_NAME" value="TestWebsite" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -118,12 +108,12 @@
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.checkboxDropdown.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.MakeMyTrip.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.checkboxDropdown" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.checkboxDropdown.SL001" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.MakeMyTrip" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.MakeMyTrip.SL001" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -131,16 +121,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SL002Alerts" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SL001KeyBoardShift" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.checkboxDropdown.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.Actions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.checkboxDropdown" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.checkboxDropdown.SL002Alerts" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.Actions" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.Actions.SL001KeyBoardShift" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -148,16 +138,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SL003Checkbox" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="findSVG" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.checkboxDropdown.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.SVG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.checkboxDropdown" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.checkboxDropdown.SL003Checkbox" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.flipkart" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.SVG.findSVG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mCharts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.abhishek.selenium.SVG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.flipkart" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.SVG.mCharts" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -167,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PositiveTC" />
-        <item itemvalue="TestNG.PositiveTC.TestWebsite" />
         <item itemvalue="TestNG.SL001" />
-        <item itemvalue="TestNG.SL003Checkbox" />
-        <item itemvalue="TestNG.SL002Alerts" />
+        <item itemvalue="TestNG.SL001KeyBoardShift" />
+        <item itemvalue="TestNG.SL001 (1)" />
+        <item itemvalue="TestNG.mCharts" />
+        <item itemvalue="TestNG.findSVG" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +218,9 @@
       <workItem from="1720432914114" duration="130000" />
       <workItem from="1720590921921" duration="4850000" />
       <workItem from="1720601019065" duration="12275000" />
+      <workItem from="1720616441229" duration="106000" />
+      <workItem from="1720677185882" duration="4078000" />
+      <workItem from="1720682765021" duration="7164000" />
     </task>
     <servers />
   </component>
