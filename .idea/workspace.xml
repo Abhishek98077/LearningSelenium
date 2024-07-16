@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="" />
+    <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +66,7 @@
     "TestNG.test01.executor": "Run",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/LearnSelenium/allure-results",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/LearnSelenium",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -78,7 +80,7 @@
       <recent name="C:\Users\Asus\IdeaProjects\LearnSelenium\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SL001">
+  <component name="RunManager" selected="TestNG.SL001KeyBoardShift">
     <configuration name="SL001 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
@@ -166,21 +168,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SL001" />
         <item itemvalue="TestNG.SL001KeyBoardShift" />
+        <item itemvalue="TestNG.SL001" />
         <item itemvalue="TestNG.SL001 (1)" />
         <item itemvalue="TestNG.mCharts" />
         <item itemvalue="TestNG.findSVG" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -213,6 +207,9 @@
       <workItem from="1720616441229" duration="106000" />
       <workItem from="1720677185882" duration="4078000" />
       <workItem from="1720682765021" duration="8694000" />
+      <workItem from="1720753869680" duration="440000" />
+      <workItem from="1721105982904" duration="55000" />
+      <workItem from="1721107138800" duration="26000" />
     </task>
     <servers />
   </component>
