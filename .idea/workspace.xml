@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a394a01a-6f3c-4509-8160-031776de1cfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/DragDrop/SL002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/DragDrop/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/DragDrop/dragDropSL01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/DragDrop/windows/SL001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/RelativeLocators/SL001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/iFrame/Sl001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/abhishek/selenium/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -49,12 +57,16 @@
     "TestNG.PositiveTC.TestWebsite.executor": "Run",
     "TestNG.PositiveTC.executor": "Run",
     "TestNG.SL001 (1).executor": "Run",
+    "TestNG.SL001 (2).executor": "Run",
     "TestNG.SL001.executor": "Run",
     "TestNG.SL001KeyBoardShift.executor": "Run",
+    "TestNG.SL002.executor": "Run",
     "TestNG.SL002Alerts.executor": "Run",
     "TestNG.SL003.executor": "Run",
     "TestNG.SL003Checkbox.executor": "Run",
     "TestNG.SL007.executor": "Run",
+    "TestNG.Sl001.executor": "Run",
+    "TestNG.dragDropSL01.executor": "Run",
     "TestNG.findSVG.executor": "Run",
     "TestNG.loginPage.executor": "Run",
     "TestNG.loginpage2.executor": "Run",
@@ -80,17 +92,17 @@
       <recent name="C:\Users\Asus\IdeaProjects\LearnSelenium\allure-results" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SL001KeyBoardShift">
+  <component name="RunManager" selected="TestNG.Sl001">
     <configuration name="SL001 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.shadowDOM.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.RelativeLocators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.shadowDOM" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.shadowDOM.SL001" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.RelativeLocators" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.RelativeLocators.SL001" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -98,16 +110,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SL001" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SL001 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.MakeMyTrip.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.DragDrop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.MakeMyTrip" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.MakeMyTrip.SL001" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.DragDrop" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.DragDrop.SL001" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -115,16 +127,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SL001KeyBoardShift" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SL002" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.Actions.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.DragDrop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.Actions" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.Actions.SL001KeyBoardShift" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.DragDrop" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.DragDrop.SL002" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -132,16 +144,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findSVG" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Sl001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.SVG.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.iFrame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.flipkart" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.SVG.findSVG" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.iFrame" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.iFrame.Sl001" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -149,16 +161,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mCharts" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="dragDropSL01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.abhishek.selenium.SVG.*" />
+          <option name="PATTERN" value="org.abhishek.selenium.DragDrop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.abhishek.selenium.flipkart" />
-      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.SVG.mCharts" />
+      <option name="PACKAGE_NAME" value="org.abhishek.selenium.DragDrop" />
+      <option name="MAIN_CLASS_NAME" value="org.abhishek.selenium.DragDrop.dragDropSL01" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -168,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SL001KeyBoardShift" />
-        <item itemvalue="TestNG.SL001" />
+        <item itemvalue="TestNG.Sl001" />
         <item itemvalue="TestNG.SL001 (1)" />
-        <item itemvalue="TestNG.mCharts" />
-        <item itemvalue="TestNG.findSVG" />
+        <item itemvalue="TestNG.SL001 (2)" />
+        <item itemvalue="TestNG.SL002" />
+        <item itemvalue="TestNG.dragDropSL01" />
       </list>
     </recent_temporary>
   </component>
